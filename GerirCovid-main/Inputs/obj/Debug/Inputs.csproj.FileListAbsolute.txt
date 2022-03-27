@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CopyComplete
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CopyComplete
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.pdb

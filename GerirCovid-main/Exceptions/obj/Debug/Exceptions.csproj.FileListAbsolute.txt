@@ -1,0 +1,11 @@
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\bin\Debug\Exceptions.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\bin\Debug\Exceptions.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\obj\Debug\Exceptions.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Exceptions\obj\Debug\Exceptions.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Exceptions\bin\Debug\Exceptions.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Exceptions\bin\Debug\Exceptions.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Exceptions\obj\Debug\Exceptions.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Exceptions\obj\Debug\Exceptions.pdb

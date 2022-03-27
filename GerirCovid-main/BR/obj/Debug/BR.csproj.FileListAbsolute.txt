@@ -1,0 +1,63 @@
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\BR.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\BR.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\BO.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\BO.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\obj\Debug\BR.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\obj\Debug\BR.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\DaDos.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\BR\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\BO.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\Exceptions.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\DaDos.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\BO.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\Exceptions.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\obj\Debug\BR.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\obj\Debug\BR.csproj.CopyComplete
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\obj\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\BR\obj\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\obj\Debug\BR.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\obj\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\BR.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\BO.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\Dados.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\Exceptions.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\BO.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\Dados.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\bin\Debug\Exceptions.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\BR.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\BR.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\BO.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\DaDos.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\BO.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\DaDos.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csproj.CopyComplete
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\BR\bin\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\BO.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\DaDos.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\Inputs.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\BO.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\bin\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.csproj.CopyComplete
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\BR\obj\Debug\BR.pdb

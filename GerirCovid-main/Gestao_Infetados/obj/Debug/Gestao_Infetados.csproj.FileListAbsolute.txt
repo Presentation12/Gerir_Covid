@@ -1,0 +1,137 @@
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+E:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\trabalhoLP2_21152_21140_Fase1\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\GerirCovid\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Users\Asus\Desktop\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.pdb
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CopyComplete
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.dll
+C:\Users\playd\Desktop\eManuals\Linguagem de Programação II\Programas e exercicios\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Exceptions.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\Exceptions.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CopyComplete
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\GerirCovid-main (2)\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Exceptions.dll
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\bin\Debug\Exceptions.pdb
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CopyComplete
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Programming\LP2\EntregaFASE1TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CopyComplete
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe.config
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Gestao_Infetados.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Inputs.dll
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BR.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Menu.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\BO.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\DaDos.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\bin\Debug\Inputs.pdb
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csprojAssemblyReference.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CoreCompileInputs.cache
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.csproj.CopyComplete
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.exe
+F:\IPCA\2 semestre\LP 2\TRABALHO\Entrega_LP2 (1)\Entrega LP2\GerirCovid-main\Gestao_Infetados\obj\Debug\Gestao_Infetados.pdb
